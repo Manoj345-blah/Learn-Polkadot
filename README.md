@@ -51,9 +51,37 @@ https://wiki.polkadot.network/docs/learn-xcm
 
 https://guide.kusama.network/docs/kusama-getting-started
 
+https://github.com/Manoj345-blah/awesome-blockchain-rust
+
+https://ethereum.org/en/developers/docs/programming-languages/rust/
+
+https://rustinblockchain.org/
+
+Rust Fundamentals - https://stevedonovan.github.io/rust-gentle-intro/
+
+Environment Setup -  https://www.rust-lang.org/tools/install
+
+The Official Docs - https://doc.rust-lang.org/rust-by-example/
+
+Rust from scratch (blog) - https://www.educative.io/blog/rust-tutorial-from-scratch
+
+Rust Beginner Tutorial - https://youtube.com/playlist?list=PLUBKxx7QjtVnXD7-u8iIVeIdQXmYRptp-
+
+Rust Intermediate Tutorial- https://youtube.com/playlist?list=PLUBKxx7QjtVk9cVT9VaTtoDKivyWuLZZf
+
+Rust Crash Course from Traversy - https://www.youtube.com/watch?v=zF34dRivLOw
+
+https://www.linkedin.com/learning/first-look-rust
+
 https://use.ink/why-rust-for-smart-contracts
 
 https://use.ink/why-webassembly-for-smart-contracts
+
+https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+
+https://rust-lang-nursery.github.io/rust-cookbook/intro.html
+
+https://codeberg.org/rusty-snake/rust-cookbook
 
 https://use.ink/smart-contracts-polkadot
 
