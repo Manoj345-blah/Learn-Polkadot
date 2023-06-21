@@ -500,3 +500,13 @@ https://docs.subwallet.app/main/
 https://docs.phala.network/developers/phat-contract
 
 https://docs.phala.network/developers/phat-contract/builders-program
+
+https://docs.polkadex.trade
+
+https://docs.polkadex.trade/orderbookArchitecture
+
+https://docs.polkadex.trade/tokenEconomics
+
+https://docs.polkadex.trade/polkadexNetworkEcosystemParachain
+
+https://github.com/Polkadex-Substrate
