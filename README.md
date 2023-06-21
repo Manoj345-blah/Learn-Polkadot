@@ -57,6 +57,50 @@ https://ethereum.org/en/developers/docs/programming-languages/rust/
 
 https://rustinblockchain.org/
 
+https://hackernoon.com/rusty-chains-a-basic-blockchain-implementation-written-in-pure-rust-gk2m3uri
+
+https://decentralizedthoughts.github.io/2020-08-28-what-is-a-cryptographic-hash-function/
+
+https://freestartupkits.com/articles/technology/cryptocurrency-news-and-tips/ultimate-rust-blockchain-tutorial/
+
+https://justinmeiners.github.io/lc3-vm/
+
+https://justinmeiners.github.io/tiny-blockchain/
+
+https://dochdoch.gitlab.io/snark_intro/snark_intro_front/
+
+https://medium.com/perlin-network/build-a-decentralized-chat-using-javascript-rust-webassembly-c775f8484b52
+
+https://medium.com/@prabhueshwarla/coding-a-p2p-blockchain-in-rust-part-1-2ecc8f6005ea
+
+https://hiddentao.com/archives/2020/07/17/my-first-smart-contract-in-rust-on-elrond-vm
+
+https://www.youtube.com/watch?v=bjWxwTA2KLw
+
+https://medium.com/better-programming/substrate-blockchains-and-runtime-modules-an-introduction-866851b550b9
+
+https://medium.com/nervosnetwork/exploring-an-essential-data-structure-in-ckb-the-transaction-a1ca8fcbfbda
+
+https://medium.com/oasislabs/blockchain-flavored-wasi-50e3612b8eba
+
+https://hackernoon.com/lessons-learned-from-bitcoins-and-ethereum-s-programming-models-f9fdbe1a3fdb
+
+https://medium.com/@jimmysong/lessons-learned-from-teaching-over-500-developers-or-why-you-should-level-up-ad0e48bce067
+
+https://medium.com/@jimmysong/lessons-learned-from-teaching-over-500-developers-or-why-you-should-level-up-ad0e48bce067
+
+https://www.reddit.com/r/rust/comments/ekingn/tomakaredshirt_an_os_prototype_where_binaries_are
+
+https://web.archive.org/web/20210123044822/https://www.tannrallard.tech/token-engineering-learning-program/
+
+http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/
+
+https://brson.github.io/2021/03/09/further-adventures-with-substrate-and-ink
+
+https://thenewstack.io/rust-creator-graydon-hoare-talks-about-security-history-and-rust
+
+https://medium.com/@kevinmobrien1/instead-of-solving-the-blockchain-trilemma-focus-on-building-a-vibrant-cryptoeconomy-7064acb41a26
+
 Rust Fundamentals - https://stevedonovan.github.io/rust-gentle-intro/
 
 Environment Setup -  https://www.rust-lang.org/tools/install
