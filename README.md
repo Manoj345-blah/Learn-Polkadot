@@ -1,5 +1,7 @@
 # Polkadot-resources
-The Collection of Polkadot resources is here. You can learn the Polkadot, Rust, Substrate, Smart Contracts, Blockchain Architecture, and so many things about Polkadot here.
+The Collection of Polkadot resources is here. You can learn the Polkadot, Rust, Substrate, Smart Contracts, Blockchain Architecture, and so many things about Polkadot here. Created by Pewbhai 😈
+
+https://docs.substrate.io/tutorials/build-a-blockchain/build-local-blockchain/
 
 https://wiki.polkadot.network/docs/ledger
 
