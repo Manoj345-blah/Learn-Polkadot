@@ -1,6 +1,8 @@
 # Polkadot-resources
 The Collection of Polkadot resources is here. You can learn the Polkadot, Rust, Substrate, Smart Contracts, Blockchain Architecture, and so many things about Polkadot here. Created by Pewbhai 😈
 
+**General Concepts of Polkadot**
+
 https://docs.substrate.io/tutorials/build-a-blockchain/build-local-blockchain/
 
 https://wiki.polkadot.network/docs/ledger
@@ -54,6 +56,8 @@ https://wiki.polkadot.network/docs/learn-xcm
 https://guide.kusama.network/docs/kusama-getting-started
 
 https://github.com/Manoj345-blah/awesome-blockchain-rust
+
+**General Resources of Rust, Substrate, and Polkadot based**
 
 https://ethereum.org/en/developers/docs/programming-languages/rust/
 
@@ -117,13 +121,44 @@ Rust Intermediate Tutorial- https://youtube.com/playlist?list=PLUBKxx7QjtVk9cVT9
 
 Rust Crash Course from Traversy - https://www.youtube.com/watch?v=zF34dRivLOw
 
+https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+
 https://www.linkedin.com/learning/first-look-rust
+
+https://medium.com/polkadot-network/xcm-part-iii-execution-and-error-management-ceb8155dd166
+
+https://medium.com/polkadot-network/xcm-v3-breaking-new-ground-for-web3-interoperability-5fe6e7ebfaa8
+
+https://medium.com/polkadot-network/gov2-polkadots-next-generation-of-decentralised-governance-4d9ef657d11b
+
+https://medium.com/polkadot-network/xcmv2-audit-completed-by-quarkslab-ae03f4c9ba5d
+
+https://medium.com/polkadot-network/one-article-to-understand-the-past-present-and-future-of-web-3-0-5433962b7c3e
+
+https://medium.com/polkadot-network/xcm-the-cross-consensus-message-format-3b77b1373392
+
+https://medium.com/polkadot-network/xcm-part-ii-versioning-and-compatibility-b313fc257b83
+
+https://medium.com/polkadot-network/xcm-part-iii-execution-and-error-management-ceb8155dd166
+
+https://medium.com/polkadot-network/polkadot-governance-1bad83895982
+
+https://alchemy.com/blog/astar-on-alchemy
+
+https://wazirx.com/blog/polkadot-and-its-parachains/
+
+https://atomicdex.io/en/blog/what-is-polkadot-dot/#what-is-polkadot-dot
+
+https://blockchain.oodles.io/blog/dapp-development-on-polkadot/
+
+https://www.immunebytes.com/blog/what-is-polkadot-a-brief-introduction/
+
+
+**Ink!, the language of Polkadot for Smart Contracts**
 
 https://use.ink/why-rust-for-smart-contracts
 
 https://use.ink/why-webassembly-for-smart-contracts
-
-https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
 
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
 
@@ -203,6 +238,9 @@ https://medium.com/@OneBlockplus/web3-project-incubation-guide-2022-polkadot-win
 
 https://substrate.dev/rustdocs
 
+
+**Blogs about Polkadot and Substrate by OneBlock+**
+
 https://medium.com/@OneBlockplus/analysis-of-the-development-potential-and-market-prospect-of-appchains-48a079aa0ed1
 
 https://medium.com/@OneBlockplus/a-comparison-of-solidity-rust-vyper-and-move-d328d2cb9c1b
@@ -223,11 +261,20 @@ https://substrate.dev/
 
 https://doc.rust-lang.org/book/
 
+
+**Parachains and their documentation**
+
 https://academy.subquery.network/quickstart/quickstart_chains/polkadot.html#goals
 
 https://wiki.ajuna.io
 
 https://github.com/AcalaNetwork/Acala-white-paper
+
+https://www.kraken.com/learn/what-is-acala-aca
+
+https://medium.com/acalanetwork/scale-ethereum-based-defi-to-polkadot-with-acala-evm-now-fully-evm-compatible-with-full-access-to-cd3afd525f96
+
+https://wiki.acala.network
 
 https://docs.alephzero.org/aleph-zero/
 
@@ -308,34 +355,6 @@ https://docs.hashed.network/accounting/beancount
 https://docs.hashed.network/sdk
 
 https://docs.hashed.network/hash_usage
-
-https://medium.com/polkadot-network/xcm-part-iii-execution-and-error-management-ceb8155dd166
-
-https://medium.com/polkadot-network/xcm-v3-breaking-new-ground-for-web3-interoperability-5fe6e7ebfaa8
-
-https://medium.com/polkadot-network/gov2-polkadots-next-generation-of-decentralised-governance-4d9ef657d11b
-
-https://medium.com/polkadot-network/xcmv2-audit-completed-by-quarkslab-ae03f4c9ba5d
-
-https://medium.com/polkadot-network/one-article-to-understand-the-past-present-and-future-of-web-3-0-5433962b7c3e
-
-https://medium.com/polkadot-network/xcm-the-cross-consensus-message-format-3b77b1373392
-
-https://medium.com/polkadot-network/xcm-part-ii-versioning-and-compatibility-b313fc257b83
-
-https://medium.com/polkadot-network/xcm-part-iii-execution-and-error-management-ceb8155dd166
-
-https://medium.com/polkadot-network/polkadot-governance-1bad83895982
-
-https://alchemy.com/blog/astar-on-alchemy
-
-https://wazirx.com/blog/polkadot-and-its-parachains/
-
-https://atomicdex.io/en/blog/what-is-polkadot-dot/#what-is-polkadot-dot
-
-https://blockchain.oodles.io/blog/dapp-development-on-polkadot/
-
-https://www.immunebytes.com/blog/what-is-polkadot-a-brief-introduction/
 
 https://docs.hydradx.io
 
