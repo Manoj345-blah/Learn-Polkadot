@@ -156,6 +156,8 @@ https://www.immunebytes.com/blog/what-is-polkadot-a-brief-introduction/
 
 **Ink!, the language of Polkadot for Smart Contracts**
 
+https://github.com/paritytech/ink-examples/tree/main
+
 https://use.ink/why-rust-for-smart-contracts
 
 https://use.ink/why-webassembly-for-smart-contracts
