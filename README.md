@@ -1,6 +1,7 @@
 # Polkadot-resources
 The Collection of Polkadot resources is here. You can learn the Polkadot, Rust, Substrate, Smart Contracts, Blockchain Architecture, and so many things about Polkadot here. Created by Pewbhai 😈
 
+
 **General Concepts of Polkadot**
 
 https://docs.substrate.io/tutorials/build-a-blockchain/build-local-blockchain/
@@ -116,6 +117,8 @@ The Official Docs - https://doc.rust-lang.org/rust-by-example/
 Rust from scratch (blog) - https://www.educative.io/blog/rust-tutorial-from-scratch
 
 Rust Beginner Tutorial - https://youtube.com/playlist?list=PLUBKxx7QjtVnXD7-u8iIVeIdQXmYRptp-
+
+https://doc.rust-lang.org/stable/cargo/
 
 Rust Intermediate Tutorial- https://youtube.com/playlist?list=PLUBKxx7QjtVk9cVT9VaTtoDKivyWuLZZf
 
