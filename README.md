@@ -2,6 +2,32 @@
 The Collection of Polkadot resources is here. You can learn the Polkadot, Rust, Substrate, Smart Contracts, Blockchain Architecture, and so many things about Polkadot here. Created by Pewbhai 😈
 
 
+
+**Polkadot and Kusama-based Weekly Updates**
+
+https://polkadotters.com
+
+https://twitter.com/PolkadotInsider
+
+https://dotinsights.subwallet.app
+
+https://polkadotters.medium.com
+
+https://twitter.com/polkadotnews
+
+https://www.polkaproject.com
+
+https://twitter.com/DotParachains
+
+https://medium.com/polkadot-ecosystem-promoteam
+
+https://learnpolkadot.com
+
+https://polkastats.io
+
+https://kusama.polkastats.io
+
+
 **General Concepts of Polkadot**
 
 https://docs.substrate.io/tutorials/build-a-blockchain/build-local-blockchain/
@@ -57,6 +83,8 @@ https://wiki.polkadot.network/docs/learn-xcm
 https://guide.kusama.network/docs/kusama-getting-started
 
 https://github.com/Manoj345-blah/awesome-blockchain-rust
+
+
 
 **General Resources of Rust, Substrate, and Polkadot based**
 
@@ -157,6 +185,7 @@ https://blockchain.oodles.io/blog/dapp-development-on-polkadot/
 https://www.immunebytes.com/blog/what-is-polkadot-a-brief-introduction/
 
 
+
 **Ink!, the language of Polkadot for Smart Contracts**
 
 https://github.com/paritytech/ink-examples/tree/main
@@ -244,6 +273,7 @@ https://medium.com/@OneBlockplus/web3-project-incubation-guide-2022-polkadot-win
 https://substrate.dev/rustdocs
 
 
+
 **Blogs about Polkadot and Substrate by OneBlock+**
 
 https://medium.com/@OneBlockplus/analysis-of-the-development-potential-and-market-prospect-of-appchains-48a079aa0ed1
@@ -265,6 +295,7 @@ https://betterprogramming.pub/substrate-blockchains-and-runtime-modules-an-intro
 https://substrate.dev/
 
 https://doc.rust-lang.org/book/
+
 
 
 **Parachains and their documentation**
@@ -608,3 +639,23 @@ https://docs.polkadex.trade/tokenEconomics
 https://docs.polkadex.trade/polkadexNetworkEcosystemParachain
 
 https://github.com/Polkadex-Substrate
+
+https://docs.subsocial.network/docs/develop/
+
+https://docs.subsocial.network/docs/develop/developer-quickstart
+
+https://docs.subsocial.network
+
+https://docs.t3rn.io/intro
+
+https://github.com/UniqueNetwork/unique-chain
+
+https://docs.unique.network
+
+https://docs.unique.network/sdk/
+
+https://github.com/UniqueNetwork
+
+https://docs.watr.org/quickstart
+
+https://blog.zeitgeist.pm
