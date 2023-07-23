@@ -272,6 +272,8 @@ https://medium.com/@OneBlockplus/web3-project-incubation-guide-2022-polkadot-win
 
 https://substrate.dev/rustdocs
 
+https://www.codezeros.com/decoding-rust-everything-you-need-to-know-about-the-programming-language
+
 
 
 **Blogs about Polkadot and Substrate by OneBlock+**
